@@ -1,4 +1,4 @@
-# 🇰🇿 AI Assistant: Constitution of the Republic of Kazakhstan
+# AI Assistant: Constitution of the Republic of Kazakhstan
 
 This project is a minimum viable product (MVP) of an AI chatbot created using [Dify.AI](https://dify.ai), which answers questions about the Constitution of Kazakhstan.
 
