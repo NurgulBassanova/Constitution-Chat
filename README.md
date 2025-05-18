@@ -37,7 +37,7 @@ This project is a minimum viable product (MVP) of an AI chatbot created using [D
 
 | Upload Documents | Chatting with Bot |
 |------------------|------------------|
-| ![](screenshots/upload.png) | ![](screenshots/chat.png) |
+| ![](upload.png) | ![](chat.png) |
 
 ## 🧰 Technology Stack
 
